@@ -20,7 +20,7 @@ const metascraper = require('metascraper')([
 ])
 
 
-// cool
+// ok
 
 const TWENTY_FOUR_HOURS = 86400000
 
