@@ -20,8 +20,6 @@ const metascraper = require('metascraper')([
 ])
 
 
-// ok
-
 const TWENTY_FOUR_HOURS = 86400000
 
 module.exports = async (req, res) => {
